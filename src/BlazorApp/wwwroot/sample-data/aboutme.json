@@ -1,12 +1,11 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Developing solutions in Finance sector mostly with .NET related technology stack.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Software Engineering",
+    ".NET Core", 
+    "Python", 
+    "Agile Scrum", 
+    "CI/CD"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Gained unique experience delivering Windows Phone applications for finance industry: for retail banking, mobile payments. Have a sophisticated knowledge of development, design processes and requirement analysis. Curious about Machine Learning, Raspberry Pi. Principled, clear and decisive. Finding logical flaws in arguments and potential solutions (problem focused communication). Contributing with insight and understanding of complex situations."
 }
